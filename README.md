@@ -1,6 +1,9 @@
 # Estudo-Scala
 Estudo Scala, puro sem frameworks
 
+- [x] **Reflection**
+- [x] **Classe[T[_]]**
+- [x] **Trait**
 - [x] **Case Class x Class**
 - [x] **Implicit Method**
 - [x] **Lazy Val**
@@ -8,8 +11,6 @@ Estudo Scala, puro sem frameworks
 - [x] **_ + _?**
 - [x] **For - Yield**
 - [x] **Match - Case**
-- [x] **Classe[T[_]]**
-- [x] **Trait**
 - [x] **Any**
 - [x] **AnyRef**
 - [x] **AnyVal**
